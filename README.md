@@ -6,8 +6,11 @@
 </h2>
 
 ###
-
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afzalhossainraju100&theme=dracula" />
+</div>
+
+<!-- <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=afzalhossainraju100&show_icons=true&theme=dracula" 
     height="150"
@@ -16,13 +19,25 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalhossainraju100&layout=compact&theme=dracula" 
     height="150"
   />
+</div> -->
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge" />
+
 </div>
-
-
 
 ###
 
+<div align="center">
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afzalhossainraju100&theme=dracula" height="150" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afzalhossainraju100&theme=dracula" height="150" />
+
+</div>
 
 ###
 <div align="center">
